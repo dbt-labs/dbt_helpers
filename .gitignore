@@ -1,0 +1,10 @@
+# dbt
+target/
+logs/
+dbt_packages/
+dbt_modules/
+
+# python
+venv/
+.python-version
+
